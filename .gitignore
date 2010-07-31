@@ -1,0 +1,9 @@
+
+*.aps
+Release
+Debug
+*.sln
+*.suo
+*.user
+/desktop.ini
+*.ncb
